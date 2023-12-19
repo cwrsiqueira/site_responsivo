@@ -1,0 +1,30 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.back-top {
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+  z-index: 999;
+  cursor: pointer;
+}
+
+.cfa {
+  position: absolute;
+}
+
+.bg-shadow {
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.social {
+  cursor: pointer;
+  color: #eee;
+}
+.social:hover {
+  color: #bbb;
+}
