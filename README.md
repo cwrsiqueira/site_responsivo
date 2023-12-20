@@ -1,5 +1,7 @@
 # PROJETO SITE RESPONSIVO COM HTML E CSS
 
+### No canto superior direito desta tela, deixe uma estrela no projeto. Obrigado!
+
 ## Baixe ou clone o projeto e rode no servidor local
 ## Deixe uma estrela no projeto pra mostrar que vc gostou
 
